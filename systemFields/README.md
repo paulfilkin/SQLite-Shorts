@@ -67,7 +67,7 @@ If the script is saved as an `.sql` file, follow these steps:
 
 Once the script has been executed the result should deliver something like this into the Results View:
 
-![](.\images\table_results.png)
+![](./images/table_results.png)
 
 ## Exporting Results
 
