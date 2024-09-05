@@ -63,6 +63,12 @@ If the script is saved as an `.sql` file, follow these steps:
 3. In the **Execute SQL** tab, select and open the saved `.sql` script.
 4. Execute the script to extract the translation unit data.
 
+## Results View
+
+Once the script has been executed the result should deliver something like this into the Results View:
+
+![](.\images\table_results.png)
+
 ## Exporting Results
 
 Once the query is executed, you can export the results for further analysis or reference:
